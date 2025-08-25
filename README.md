@@ -9,5 +9,6 @@ Outputs the current cost of `𝑛` Bitcoins in USD to four decimal places, using
 <br><br>
 
 ## 💲 Demo
+<img src="https://github.com/ayahkashif/Bitcoin-Price-Index/blob/main/demo.png" alt="demo image" width="439">
 
 
